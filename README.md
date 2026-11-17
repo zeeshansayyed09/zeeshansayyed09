@@ -1,12 +1,14 @@
-Hi 👋, I'm Zeeshan Sayyed
+Hey, I'm a Zeeshan Sayyed 👋
 
 ------------------------------------------------------------------------------------------
 
-Welcome to my GitHub! I'm a passionate Full Stack Developer who enjoys building scalable backend systems, secure authentication flows, and well-structured APIs. I have a strong interest in backend architecture, design systems, and creating clean, functional user experiences. I love turning ideas into practical applications with a focus on performance, security, and thoughtful design.
+Welcome to my GitHub! I'm a Developer passionate about building modern web applications, exploring software engineering, AI, and backend technologies. I enjoy creating scalable solutions, experimenting with new technologies, and turning ideas into meaningful digital experiences.
 
+🧠 About Me
+-----------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
-
-- 💻 Building with JavaScript, TypeScript, React, Node.js & PostgreSQL...
-- 🚀 Building projects, learning by doing...
-- 🌱 Currently diving deeper into JavaScript internals and backend development...
+- 💻 Building with JavaScript, TypeScript, React, Node.js & PostgreSQL
+- 🚀 Building projects, learning by doing
+- 🌱 Currently diving deeper into JavaScript internals and backend development
+- 🎨 Enjoy building clean interfaces and reusable design systems
+- ⚙️ Always experimenting with new technologies and improving my skills
